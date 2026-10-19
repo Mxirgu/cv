@@ -32,3 +32,6 @@ Regarding typography, I have used "Inter", which maintains consistency with the 
 Finally, it is also important to highlight the use of space, as every design choice has a specific purpose. For example, most of the text is placed in the central area because it is the most comfortable space for reading longer texts.
 
 It is also worth noting that the space between the end of a paragraph and the next heading is greater than the space between a heading and its corresponding text. This helps the reader visually distinguish between the five sections more easily.
+
+Figma link:
+https://www.figma.com/design/IsVKKuQ0JHoXQNn3Htcsj5/Sin-t%C3%ADtulo?node-id=0-1&t=1m0UwmBCWpzcgomW-1 
